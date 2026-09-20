@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Computer Science at [Bocconi University](https://www.unibocconi.it/en/programs/phd/phd-statistics-and-computer-science), working under the supervision of [Guido Enrico Tabellini](https://www.unibocconi.it/en/faculty/guido-tabellini).
+I am a first-year PhD student in Computer Science at [Bocconi University](https://www.unibocconi.it/en/programs/phd/phd-statistics-and-computer-science), working under the supervision of Professor [Guido Enrico Tabellini](https://www.unibocconi.it/en/faculty/guido-tabellini).
 
 My academic background bridges the humanities and computing. Before starting my PhD, I completed an MSc in Linguistic Computing at [Università Cattolica del Sacro Cuore](https://www.unicatt.it/) and a BSc in Humanities at [Università degli Studi di Milano](https://www.unimi.it/it).
 
