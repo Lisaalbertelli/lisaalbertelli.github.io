@@ -27,11 +27,9 @@ author:
   employer: "Bocconi University"
   uri:
   email: "lisa.albertelli@phd.unibocconi.it"
-  googlescholar: ""
-  orcid: ""
-  pubmed: ""
+  googlescholar: "https://scholar.google.com/citations?user=e5kAeH4AAAAJ"
   github: "Lisaalbertelli"
-  bluesky: ""
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
