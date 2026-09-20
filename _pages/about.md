@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Lisa Sophie Albertelli, a first-year PhD student in Computer Science.
+Welcome! I am Lisa Sophie Albertelli, a first-year PhD student in Computer Science at Bocconi University.
