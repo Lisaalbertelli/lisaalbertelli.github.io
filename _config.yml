@@ -7,37 +7,31 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lisa Sophie Albertelli"
-title_separator          : "-"
-name                     : &name "Lisa Sophie Albertelli"
-description              : &description "Lisa Sophie Albertelli's academic portfolio  # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Lisaalbertelli/lisaalbertelli.github.io"
+locale: "en-US"
+site_theme: "default"
+title: "Lisa Sophie Albertelli"
+title_separator: "-"
+name: &name "Lisa Sophie Albertelli"
+description: &description "Lisa Sophie Albertelli's academic portfolio"
+url: "https://lisaalbertelli.github.io"
+baseurl: ""
+repository: "Lisaalbertelli/lisaalbertelli.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Lisa Sophie Albertelli"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD student in Computer Science"
-  location         : "Milan"
-  employer         : "Bocconi University"
-  uri              : # URL
-  email            : "lisa.albertelli@phd.unibocconi.it" 
-
-  # Academic websites
-  googlescholar    : ""
-  orcid            : ""
-  pubmed           : ""
-  github           : "Lisaalbertelli"
-  bluesky          : ""
+  avatar: "profile.png"
+  name: "Lisa Sophie Albertelli"
+  pronouns:
+  bio: "PhD student in Computer Science"
+  location: "Milan"
+  employer: "Bocconi University"
+  uri:
+  email: "lisa.albertelli@phd.unibocconi.it"
+  googlescholar: ""
+  orcid: ""
+  pubmed: ""
+  github: "Lisaalbertelli"
+  bluesky: ""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
