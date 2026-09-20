@@ -11,8 +11,8 @@ I am a first-year PhD student in Computer Science at [Bocconi University](https:
 
 My academic background bridges the humanities and computing. Before starting my PhD, I completed an MSc in Linguistic Computing at [Università Cattolica del Sacro Cuore](https://www.unicatt.it/) and a BSc in Humanities at [Università degli Studi di Milano](https://www.unimi.it/it).
 
-My research interests lie at the intersection of **natural language processing, computational linguistics, and computational social science**.
+My research interests lie at the intersection of **NLP** (Natural Language Processing), **Computational Linguistics**, and **Computational Social Science**.
 
-Through my PhD project, **POLEUROPE**, I use natural language processing and text analysis to study how narratives and mental models shape public attitudes toward European political integration. I am interested in how these narratives and mental models vary across countries, evolve over time, and influence citizens’ beliefs.
+My PhD research is part of **POLEUROPE**, a project exploring the role of narratives and mental models in shaping citizens’ beliefs about European political integration. I use natural language processing and text analysis to investigate how these perspectives differ across countries and change over time.
 
 You can reach me at [lisa.albertelli@phd.unibocconi.it](mailto:lisa.albertelli@phd.unibocconi.it).
