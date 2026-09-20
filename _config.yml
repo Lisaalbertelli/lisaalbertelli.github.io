@@ -24,28 +24,20 @@ repository               : "Lisaalbertelli/lisaalbertelli.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lisa Sophie Albertelli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student in Computer Science"
+  location         : "Milan"
+  employer         : "Bocconi University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lisa.albertelli@phd.unibocconi.it" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
-
+  googlescholar    : ""
+  orcid            : ""
+  pubmed           : ""
+  github           : "Lisaalbertelli"
+  bluesky          : ""
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
