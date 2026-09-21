@@ -9,8 +9,6 @@ author_profile: true
 
 ## Education
 
-## Education
-
 - **PhD in Computer Science** — *2026–present,*
   Bocconi University  
   Supervisor: Guido Enrico Tabellini
