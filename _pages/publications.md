@@ -29,9 +29,9 @@ author_profile: true
 ## Work in Progress
 
 - **Shared References, Different Contexts: Comparing the Discursive Company of Immigration in UK News and Parliament.**  
-  Mark John Hill, **Lisa Sophie Albertelli**, Steffen Eger, Sebastian Paolo Raphael Preising, Angelo Salatino, and Barbara McGillivray.  
+  Mark John Hill, Lisa Sophie Albertelli, Steffen Eger, Sebastian Paolo Raphael Preising, Angelo Salatino, and Barbara McGillivray.  
   2025. *Manuscript in preparation.*
 
 - **LLM-based Loanword Detection in German Parliamentary Proceedings Across 150+ years.**  
-  Gautam Sinha, Angelina Trümper, Gagan Bathia, **Lisa Sophie Albertelli**, and Steffen Eger.  
+  Gautam Sinha, Angelina Trümper, Gagan Bathia, Lisa Sophie Albertelli, and Steffen Eger.  
   2025. *Manuscript in preparation.*
