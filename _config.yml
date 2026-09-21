@@ -14,8 +14,8 @@ title_separator: "-"
 name: &name "Lisa Sophie Albertelli"
 description: &description "Lisa Sophie Albertelli's academic portfolio"
 url: "https://lisaalbertelli.github.io"
-baseurl: "/lisasophiealbertelli"
-repository: "Lisaalbertelli/lisasophiealbertelli"
+baseurl: ""
+repository: "Lisaalbertelli/lisaalbertelli.github.io"
 
 # Site Author
 author:
