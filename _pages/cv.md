@@ -5,8 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)]({{ site.baseurl }}/cv_bocconi_2026.pdf){: .btn .btn--primary download="cv_bocconi_2026.pdf"}
-
+[Download my CV (PDF)]({{ site.baseurl }}/cv_albertelli_bocconi_2026.pdf){: .btn .btn--primary download="cv_albertelli_bocconi_26.pdf"}
 ## Education
 
 - **PhD in Computer Science** — *2026–present,*
