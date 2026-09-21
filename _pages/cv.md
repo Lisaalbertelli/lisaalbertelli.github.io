@@ -21,6 +21,6 @@ author_profile: true
 ## Past Positions
 
 - **Research Assistant**  
-  [Natural Language Learning and Generation (NLLG) Lab](https://nl2g.github.io/), Technische Universität Nürnberg (UTN)  
+  Natural Language Learning and Generation (NLLG) Lab, Technische Universität Nürnberg (UTN)  
   Contributed to projects analyzing socio-political dynamics, including social structural change, politicization across Europe, and the evolution of social biases in multilingual textual data.
   
