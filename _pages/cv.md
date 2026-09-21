@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download my CV (PDF)]({{ site.baseurl }}/files/cv_bocconi_2026.pdf){: .btn .btn--primary download="cv_bocconi_2026.pdf"}
+[Download my CV (PDF)]({{ site.baseurl }}/cv_bocconi_2026.pdf){: .btn .btn--primary download="cv_bocconi_2026.pdf"}
 
 ## Education
 
