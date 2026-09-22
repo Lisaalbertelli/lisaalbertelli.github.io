@@ -33,5 +33,5 @@ author_profile: true
   2025. *Manuscript in preparation.*
 
 - **LLM-based Loanword Detection in German Parliamentary Proceedings Across 150+ years.**  
-  Gautam Sinha, Angelina Trümper, Gagan Bathia, Lisa Sophie Albertelli, and Steffen Eger.  
+  Gautam Sinha, Angelina Trümper, Gagan Bhatia, Lisa Sophie Albertelli, and Steffen Eger.  
   2025. *Manuscript in preparation.*
